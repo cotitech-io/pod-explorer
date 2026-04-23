@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/chain-logo.tsx","./src/config/explorer.ts","./src/lib/api.ts","./src/lib/format.ts","./src/types/explorer.ts"],"errors":true,"version":"5.9.3"}
